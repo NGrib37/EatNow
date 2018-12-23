@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "273458697241",
+    "firebase_url": "https://eatnow-1966c.firebaseio.com",
+    "project_id": "eatnow-1966c",
+    "storage_bucket": "eatnow-1966c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273458697241:android:09fa6b787b3228ca",
+        "android_client_info": {
+          "package_name": "com.example.ngrib.eatnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273458697241-samu85sob20skedc49pv1pkgito6i4va.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ngrib.eatnow",
+            "certificate_hash": "9a35295a059ff8d6eecf027c182e51739e95168d"
+          }
+        },
+        {
+          "client_id": "273458697241-bn5uc7vv2d6boqvmmgi7mvmbh33ove8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkKNtjHx2bx2L-hjJyrZWaLa3dbvj9daA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273458697241-bn5uc7vv2d6boqvmmgi7mvmbh33ove8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
